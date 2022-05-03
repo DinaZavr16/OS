@@ -1,0 +1,15 @@
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\OS_Lab_2.exe
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\OS_Lab_2.deps.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\OS_Lab_2.runtimeconfig.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\OS_Lab_2.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\ref\OS_Lab_2.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\bin\Debug\net6.0\OS_Lab_2.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.csproj.AssemblyReference.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.AssemblyInfoInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.AssemblyInfo.cs
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\ref\OS_Lab_2.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\OS_Lab_2\OS_Lab_2\obj\Debug\net6.0\OS_Lab_2.genruntimeconfig.cache
