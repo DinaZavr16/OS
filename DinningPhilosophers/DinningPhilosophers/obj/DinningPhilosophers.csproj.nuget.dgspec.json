@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\OP. Sys\\OS\\DinningPhilosophers\\DinningPhilosophers\\DinningPhilosophers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\OP. Sys\\OS\\DinningPhilosophers\\DinningPhilosophers\\DinningPhilosophers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\OP. Sys\\OS\\DinningPhilosophers\\DinningPhilosophers\\DinningPhilosophers.csproj",
+        "projectName": "DinningPhilosophers",
+        "projectPath": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\OP. Sys\\OS\\DinningPhilosophers\\DinningPhilosophers\\DinningPhilosophers.csproj",
+        "packagesPath": "C:\\Users\\DinaFormakidov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\OP. Sys\\OS\\DinningPhilosophers\\DinningPhilosophers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DinaFormakidov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/projects/29338598/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

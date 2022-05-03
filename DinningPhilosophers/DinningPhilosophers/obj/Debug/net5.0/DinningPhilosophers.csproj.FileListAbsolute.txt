@@ -1,0 +1,16 @@
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.exe
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.deps.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.runtimeconfig.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.runtimeconfig.dev.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\ref\DinningPhilosophers.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\bin\Debug\net5.0\DinningPhilosophers.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.csproj.AssemblyReference.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.AssemblyInfoInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.AssemblyInfo.cs
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.csproj.CoreCompileInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\ref\DinningPhilosophers.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\OP. Sys\OS\DinningPhilosophers\DinningPhilosophers\obj\Debug\net5.0\DinningPhilosophers.genruntimeconfig.cache
